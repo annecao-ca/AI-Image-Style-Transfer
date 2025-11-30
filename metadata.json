@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Final 01 - AI Image Style Transfer - Lê Hoàng Dũng - Nghiện Prompt",
+  "description": "An application that uses AI to transfer the style, outfit, and background from an inspiration image to a source image, while preserving the original person's facial features.",
+  "requestFramePermissions": []
+}
